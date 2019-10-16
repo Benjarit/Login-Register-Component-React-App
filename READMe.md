@@ -64,6 +64,6 @@ Username: elon@gmail.com
 Password: testla
 ```
 ![](login.png)
-![](profile.png)
 ![](register.png)
 ![](register_validation.png)
+![](profile.png)
