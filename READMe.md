@@ -63,4 +63,4 @@ Password: apple
 Username: elon@gmail.com
 Password: testla
 ```
-![](login.JPG)
+![](login.png)
